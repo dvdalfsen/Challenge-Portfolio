@@ -1,4 +1,7 @@
 
- <script>
- alert("Hallo Student!");
-</script>
+alert ("welkom");
+
+
+
+
+
