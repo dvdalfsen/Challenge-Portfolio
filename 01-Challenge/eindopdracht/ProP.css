@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    
+}
+
+element {
+    text-decoration: underline;
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+
+
+
+.Navbartje {
+    background-color: #292929;
+    padding-top: 40px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+nav {
+    text-align: inline;
+}
+
+li {
+    display: inline;
+    padding: 30px;
+}
+
+li a {
+    color: green;
+    padding: 32px;
+    transition: 0.1s;
+    
+}
+
+
+
+
+
+
