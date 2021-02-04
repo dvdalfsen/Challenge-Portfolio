@@ -38,13 +38,23 @@ li a {
     
 }
 
+img{
+
+   
+    width: 400px;
+    Margin-left:1475px;
+    margin-right: 1475px;
+    padding: 10px;
+
+}
+
 table {
-    margin-left: 650px;
-    margin-top: 135px;
+    margin-left: 625px;
+    margin-top: 100px;
     background-color: green;
-    padding: 120px;
-    border-radius: 10px;
-    text-align: center;
+    padding: 100px;
+    border-radius: 5px;
+    text-align: inline;
     color:black;
     
     
