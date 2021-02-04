@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `studentnaam`Daan van Dalfsen
 
 Klas    : `klascode`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : https://dvdalfsen.github.io/Challenge-eindopdracht/eindopdracht/home/index.html
