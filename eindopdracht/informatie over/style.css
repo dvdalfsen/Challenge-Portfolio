@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+}
+
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+.Navbartje {
+    background-color: #292929;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+nav {
+    text-align: inline;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+li a {
+    color: green;
+    padding: 10px;
+    transition: 0.1s;
+}
+
+
+li a:hover {
+    color: rgb(128, 50, 50);
+    background-color: red;
+    border-radius: 100px;
+    padding: 10px;
+    transition: 0.1s;
+}
+
+table {
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.tabel {
+    margin-top: 100px;
+    margin-left: 100px;
+    color: green;
+    font-size: 40px;
+}
+
+th {
+    color: white;
+    padding: 10px;
+}
+
+td {
+    color: white;
+}
