@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             |        |
-| ...         | Styling van elementen bepalen                  | 01:00 u             |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | klaar  |
+| ...         | Styling van elementen bepalen                  | 00:30 u             | klaar  |
+| Realiseren  | Bestanden aanmaken                             | 06:00 u             |  klaar |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 01:00               | klaar  |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30               |  klaar |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren |                                                | 00:30               |  klaar |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    | 01:00                 klaar  |
