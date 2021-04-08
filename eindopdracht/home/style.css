@@ -17,7 +17,7 @@ a {
 
 .Navbartje {
     background-color: #292929;
-    padding-top: 50px;
+    padding-top: 35px;
     margin-top: 30px;
     padding-bottom: 50px;
 }
@@ -28,7 +28,7 @@ nav {
 
 li {
     display: inline;
-    padding: 130px;
+    padding: 100px;
 }
 
 li a {
@@ -40,10 +40,10 @@ li a {
 
 li a:hover {
     color: rgb(128, 50, 50);
-    background-color: red;
-    border-radius: 50px;
+    background-color: white ;
+    border-radius: 10px;
     padding: 10px;
-    transition: 0.1s;
+    transition: 0.8s;
 }
 
 table {
